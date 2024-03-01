@@ -27,7 +27,7 @@ $conn = new mysqli($servername, $user, $password, $dbname);
    <h1>Invalid username or password try again</h1>
    <br>
    go back to login page 
-   <a href = 'index.php'>login page </a>";
+   <a href = 'index.html'>login page </a>";
    
 }
 

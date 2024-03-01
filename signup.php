@@ -1,6 +1,6 @@
 <?php
 session_start();
-header('location:index.php');
+header('location:index.html');
 
 $servername = "localhost";
 $user = "root";
